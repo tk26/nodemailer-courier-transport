@@ -1,0 +1,11 @@
+{
+  "name": "nodemailer-courier-transport",
+  "version": "0.1.0",
+  "description": "Nodemailer + Courier",
+  "main": "index.js",
+  "author": "Tejas Kumthekar",
+  "license": "MIT",
+  "dependencies": {
+    "@trycourier/courier": "^2.3.0"
+  }
+}
